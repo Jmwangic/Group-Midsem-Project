@@ -92,10 +92,15 @@ python -m streamlit run Dashboard.py
 
 ## 📦 Project Structure
 Plaintext
+
 ├── Dashboard.py                  # Main Streamlit web application code
+
 ├── cleaned_survey_data.csv       # Preprocessed geodetic survey dataset
+
 ├── capacity_predictor_model.pkl  # Serialized machine learning model artifact
+
 ├── requirements.txt              # Project dependencies for cloud deployment
+
 └── README.md                     # Project documentation
 
 ## 📚 Recommendations & Future Directions
@@ -107,6 +112,7 @@ Upgrade Gravimetric Grids: Expand the physical density of geodetic and gravimetr
 
 ## 👨‍🔬 Authors
 Mwangi John Eric Chege
+
 Melchizedeke Mwangi
 
 Geospatial Data Scientists & Geodetic System Analysts
