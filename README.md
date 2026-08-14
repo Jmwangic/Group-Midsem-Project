@@ -55,16 +55,16 @@ Emerging Demands: A significant portion of professionals indicated a strong desi
 
 ## 🖥️ Interactive Web Dashboard (Dashboard.py):
 ### Multi-Module Navigation & Control Sidebar:
-#### Module Switcher: Seamlessly toggle between three core analytical views: Executive Overview, Survey Explorer, and Model Predictor.
+#### Module Switcher: 
+Seamlessly toggle between three core analytical views: Executive Overview, Survey Explorer, and Model Predictor.
 Granular Survey Filters: Dynamically slice and dice dataset insights across four key dimensions: Sector/Employer (County, National, Private), Specialization (GIS, Civil, Architecture, etc.), Level of Practice, and Experience Band (<5 Years, 5 to 10 Years, >10 Years).
-
 #### Executive KPI Metrics Overview:
 Live Key Indicators: Top-level metrics cards presenting aggregated baseline stats including Total Responses (333), Readiness Index (58/100), Low KGRS Usage Rate (25%), Low Familiarity Rate (26%), and Policy Familiarity Rate (93%).
 
 ### Advanced Data Visualizations:
-#### Capacity-Gap Heatmap by Sector: A interactive, color-coded matrix evaluating average indicator scores (0−100) across sectors for KGRS Familiarity, KGRS Usage, AFREF Understanding, AFREF Reference, and Policy Familiarity.
+#### Capacity-Gap Heatmap by Sector:
+A interactive, color-coded matrix evaluating average indicator scores (0−100) across sectors for KGRS Familiarity, KGRS Usage, AFREF Understanding, AFREF Reference, and Policy Familiarity.
 Readiness Distribution Histogram: Multi-color categorical bar chart categorizing practitioner cohorts by urgency tiers (Critical, High Priority, Moderate, and Strong).
-
 #### Priority Intervention Opportunities Table:
 Actionable Insights Matrix: Granular tabular breakdown listing specific combinations of Location and Specialization, total Respondents, tailored Recommended Actions (e.g., foundational KGRS & AFREF training), calculated Readiness Score, At-risk Rate, and Low Usage Rate.
 
