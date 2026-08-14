@@ -54,9 +54,19 @@ Sector Representation: Responses span Private Sector, County Government, and Nat
 Emerging Demands: A significant portion of professionals indicated a strong desire to learn technical skills like AI for Geospatial Practice and GNSS Data Processing.
 
 ## 🖥️ Interactive Web Dashboard (Dashboard.py):
-Interactive Survey Explorer: Dynamic filter sidebar allowing custom evaluation of metrics by practitioner location and specialization.
-KPI Metrics Overview: Live summary showing total respondents (333), represented sectors, and average experience level.
-Plotly Visualizations: Interactive histograms and bar charts breaking down KGRS usage levels and AFREF understanding.
+### Multi-Module Navigation & Control Sidebar:
+#### Module Switcher: Seamlessly toggle between three core analytical views: Executive Overview, Survey Explorer, and Model Predictor.
+Granular Survey Filters: Dynamically slice and dice dataset insights across four key dimensions: Sector/Employer (County, National, Private), Specialization (GIS, Civil, Architecture, etc.), Level of Practice, and Experience Band (<5 Years, 5 to 10 Years, >10 Years).
+
+#### Executive KPI Metrics Overview:
+Live Key Indicators: Top-level metrics cards presenting aggregated baseline stats including Total Responses (333), Readiness Index (58/100), Low KGRS Usage Rate (25%), Low Familiarity Rate (26%), and Policy Familiarity Rate (93%).
+
+### Advanced Data Visualizations:
+#### Capacity-Gap Heatmap by Sector: A interactive, color-coded matrix evaluating average indicator scores (0−100) across sectors for KGRS Familiarity, KGRS Usage, AFREF Understanding, AFREF Reference, and Policy Familiarity.
+Readiness Distribution Histogram: Multi-color categorical bar chart categorizing practitioner cohorts by urgency tiers (Critical, High Priority, Moderate, and Strong).
+
+#### Priority Intervention Opportunities Table:
+Actionable Insights Matrix: Granular tabular breakdown listing specific combinations of Location and Specialization, total Respondents, tailored Recommended Actions (e.g., foundational KGRS & AFREF training), calculated Readiness Score, At-risk Rate, and Low Usage Rate.
 
 ## 🤖 Step 4: Machine Learning, Modeling & Deployment
 To identify the core profiles of land sector professionals and predict which demographics suffer the most from resource limitations, the following classification models were initialized and deployed:
