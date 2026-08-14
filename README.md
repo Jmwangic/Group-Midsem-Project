@@ -100,7 +100,9 @@ Plaintext
 
 ## 📚 Recommendations & Future Directions
 Targeted Capacity Building: Institutions should introduce focused training courses on GNSS applications and AI integration in geodetic survey workflows.
+
 Policy Harmonization: Standardizing regulatory operations at the national level to assist County-level practitioners.
+
 Upgrade Gravimetric Grids: Expand the physical density of geodetic and gravimetric reference stations based on the high rate of "low/very low" adequacy ratings from active survey practitioners.
 
 ## 👨‍🔬 Authors
